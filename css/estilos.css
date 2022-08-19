@@ -6,6 +6,16 @@ body
 
 
 }
+#cabecera
+{
+    background: #33A;
+    box-shadow: 0px 5px 30px rgba(0,0,0,0,75);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5cm;
+
+}
 #container
 {
     width: 70%;
